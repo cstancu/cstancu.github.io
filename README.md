@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Codruț Stancu, PhD
 
-You can use the [editor on GitHub](https://github.com/cstancu/cstancu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Researcher, _[Oracle Labs](http://labs.oracle.com/)_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bio
 
-### Markdown
+I am a Researcher at [Oracle Labs](http://labs.oracle.com), working on program analysis and optimization techniques.
+I received my PhD from the [University of California, Irvine](http://uci.edu), working under the guidance of [Prof. Michael Franz](http://www.michaelfranz.com) in his [Secure Systems and Software Laboratory](http://www.ssllab.org).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I currently work on Graal/SubstrateVM.
 
-```markdown
-Syntax highlighted code block
+Contact: codrut.<lastname>@oracle.com
 
-# Header 1
-## Header 2
-### Header 3
+### Peer Reviewed Publications
 
-- Bulleted
-- List
+- Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Safe and Efficient Hybrid Memory Management for Java](http://www.ics.uci.edu/~lstancu/p81-stancu.pdf)_. In _Proceedings of the International Symposium on Memory Management_, pages 81–92. ACM Press, 2015. [doi:10.1145/2754169.2754185](http://dx.doi.org/10.1145/2754169.2754185)
 
-1. Numbered
-2. List
+- Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Comparing Points-to Static Analysis with Runtime Recorded Profiling Data](http://www.ics.uci.edu/~lstancu/p157-stancu.pdf)_. In _Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools_, pages 157–168. ACM Press, 2014. [doi:10.1145/2647508.2647524](http://dx.doi.org/10.1145/2647508.2647524)
 
-**Bold** and _Italic_ and `Code` text
+Codrut Stancu, Luis Bathen, Nikil Dutt, Alex Nicolau: _[AVid: Annotation Driven Video Decoding for Hybrid Memories](http://www.ics.uci.edu/~lstancu/06507022.pdf)_. In _Proceedings of the 10th Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia)_, pages 2–11. IEEE, 2012. [doi:10.1109/ESTIMedia.2012.6507022](http://dx.doi.org/10.1109/ESTIMedia.2012.6507022)
 
-[Link](url) and ![Image](src)
-```
+### Workshops
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hybrid Memory Management for Java; [The SoCal Programing Languages and Systems Workshop](http://socalpls.org/); Presentation; University of California, San Diego; December 2014.
 
-### Jekyll Themes
+Exploiting Variability for Processor/Memory Power Savings; [Variability Expedition NSF Site Visit](http://www.variability.org); Poster Presentation; University of California, San Diego; October 2011
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cstancu/cstancu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Awards and Honors
 
-### Support or Contact
+- Donald Bren School of Information and Computer Science, Chair's Fellowship, 2010-2013
+- Erasmus Mundus Scholarship, University of Bologna, 2009
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Education
+
+- Ph.D. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
+_2010 - 2015, Advisor: [Michael Franz](http://www.michaelfranz.com/)_
+
+M.S. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
+_2010 - 2012, Advisors: [Nikil Dutt](http://www.ics.uci.edu/~dutt/) & [Alex Nicolau](http://www.ics.uci.edu/~nicolau/)_
+
+B.S. in Computer Science, [University of Craiova, Romania](http://software.ucv.ro/en/)
+_2005 - 2009_
+
+
+### Professional
+
+- Researcher, [Oracle Labs](http://labs.oracle.com/) _Redwood City, CA, since July 2015_
+- Research Assistant, [Oracle Labs](http://labs.oracle.com/) _Redwood City, CA, 2013-2015_
+- Research Engineer Intern, [Mozilla Labs](http://mozillalabs.com/) _Mountain View, CA, Summer 2012_
+- Software Engineer, [Caphyon Ltd.](http://www.caphyon.com/) _Craiova, Romania, 2009-2010_
+- Software Engineer, [IT Six Global Services](https://www.itsix.com/) _Craiova, Romania, 2007-2009_
