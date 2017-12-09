@@ -9,7 +9,7 @@ I received my PhD from the [University of California, Irvine](http://uci.edu), w
 
 My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I currently work on [Graal/SubstrateVM](https://github.com/graalvm).
 
-Contact: codrut.<lastname>@oracle.com
+Contact: codrut.`<lastname>`@oracle.com
 
 ### Peer Reviewed Publications
 
