@@ -17,13 +17,13 @@ Contact: codrut.<lastname>@oracle.com
 
 - Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Comparing Points-to Static Analysis with Runtime Recorded Profiling Data](http://www.ics.uci.edu/~lstancu/p157-stancu.pdf)_. In _Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools_, pages 157–168. ACM Press, 2014. [doi:10.1145/2647508.2647524](http://dx.doi.org/10.1145/2647508.2647524)
 
-Codrut Stancu, Luis Bathen, Nikil Dutt, Alex Nicolau: _[AVid: Annotation Driven Video Decoding for Hybrid Memories](http://www.ics.uci.edu/~lstancu/06507022.pdf)_. In _Proceedings of the 10th Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia)_, pages 2–11. IEEE, 2012. [doi:10.1109/ESTIMedia.2012.6507022](http://dx.doi.org/10.1109/ESTIMedia.2012.6507022)
+- Codrut Stancu, Luis Bathen, Nikil Dutt, Alex Nicolau: _[AVid: Annotation Driven Video Decoding for Hybrid Memories](http://www.ics.uci.edu/~lstancu/06507022.pdf)_. In _Proceedings of the 10th Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia)_, pages 2–11. IEEE, 2012. [doi:10.1109/ESTIMedia.2012.6507022](http://dx.doi.org/10.1109/ESTIMedia.2012.6507022)
 
 ### Workshops
 
-Hybrid Memory Management for Java; [The SoCal Programing Languages and Systems Workshop](http://socalpls.org/); Presentation; University of California, San Diego; December 2014.
+- Hybrid Memory Management for Java; [The SoCal Programing Languages and Systems Workshop](http://socalpls.org/); Presentation; University of California, San Diego; December 2014.
 
-Exploiting Variability for Processor/Memory Power Savings; [Variability Expedition NSF Site Visit](http://www.variability.org); Poster Presentation; University of California, San Diego; October 2011
+- Exploiting Variability for Processor/Memory Power Savings; [Variability Expedition NSF Site Visit](http://www.variability.org); Poster Presentation; University of California, San Diego; October 2011
 
 ### Awards and Honors
 
@@ -35,10 +35,10 @@ Exploiting Variability for Processor/Memory Power Savings; [Variability Expediti
 - Ph.D. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
 _2010 - 2015, Advisor: [Michael Franz](http://www.michaelfranz.com/)_
 
-M.S. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
+- M.S. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
 _2010 - 2012, Advisors: [Nikil Dutt](http://www.ics.uci.edu/~dutt/) & [Alex Nicolau](http://www.ics.uci.edu/~nicolau/)_
 
-B.S. in Computer Science, [University of Craiova, Romania](http://software.ucv.ro/en/)
+- B.S. in Computer Science, [University of Craiova, Romania](http://software.ucv.ro/en/)
 _2005 - 2009_
 
 
