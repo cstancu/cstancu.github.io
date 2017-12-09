@@ -32,20 +32,17 @@ Contact: codrut.`<lastname>`@oracle.com
 
 ### Education
 
-- Ph.D. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
-_2010 - 2015, Advisor: [Michael Franz](http://www.michaelfranz.com/)_
+- Ph.D. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/), _2010 - 2015, Advisor: [Michael Franz](http://www.michaelfranz.com/)_
 
-- M.S. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/)
-_2010 - 2012, Advisors: [Nikil Dutt](http://www.ics.uci.edu/~dutt/) & [Alex Nicolau](http://www.ics.uci.edu/~nicolau/)_
+- M.S. in Computer Science (Systems Software), [University of California, Irvine](http://uci.edu/), _2010 - 2012, Advisors: [Nikil Dutt](http://www.ics.uci.edu/~dutt/) & [Alex Nicolau](http://www.ics.uci.edu/~nicolau/)_
 
-- B.S. in Computer Science, [University of Craiova, Romania](http://software.ucv.ro/en/)
-_2005 - 2009_
+- B.S. in Computer Science, [University of Craiova, Romania](http://software.ucv.ro/en/), _2005 - 2009_
 
 
 ### Professional
 
-- Researcher, [Oracle Labs](http://labs.oracle.com/) _Redwood City, CA, since July 2015_
-- Research Assistant, [Oracle Labs](http://labs.oracle.com/) _Redwood City, CA, 2013-2015_
-- Research Engineer Intern, [Mozilla Labs](http://mozillalabs.com/) _Mountain View, CA, Summer 2012_
-- Software Engineer, [Caphyon Ltd.](http://www.caphyon.com/) _Craiova, Romania, 2009-2010_
-- Software Engineer, [IT Six Global Services](https://www.itsix.com/) _Craiova, Romania, 2007-2009_
+- Researcher, [Oracle Labs](http://labs.oracle.com/), _Redwood City, CA, since July 2015_
+- Research Assistant, [Oracle Labs](http://labs.oracle.com/), _Redwood City, CA, 2013-2015_
+- Research Engineer Intern, [Mozilla Labs](http://mozillalabs.com/), _Mountain View, CA, Summer 2012_
+- Software Engineer, [Caphyon Ltd.](http://www.caphyon.com/), _Craiova, Romania, 2009-2010_
+- Software Engineer, [IT Six Global Services](https://www.itsix.com/), _Craiova, Romania, 2007-2009_
