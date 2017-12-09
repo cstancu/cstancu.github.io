@@ -7,7 +7,7 @@
 I am a Researcher at [Oracle Labs](http://labs.oracle.com), working on program analysis and optimization techniques.
 I received my PhD from the [University of California, Irvine](http://uci.edu), working under the guidance of [Prof. Michael Franz](http://www.michaelfranz.com) in his [Secure Systems and Software Laboratory](http://www.ssllab.org).
 
-My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I currently work on Graal/SubstrateVM.
+My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I currently work on [Graal/SubstrateVM](https://github.com/graalvm).
 
 Contact: codrut.<lastname>@oracle.com
 
