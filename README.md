@@ -9,8 +9,6 @@ I received my PhD from the [University of California, Irvine](http://uci.edu), w
 
 My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I currently work on [GraalVM/SubstrateVM](https://github.com/graalvm).
 
-Contact: codrut.`<lastname>`@oracle.com
-
 ### Peer Reviewed Publications
 
 - Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Safe and Efficient Hybrid Memory Management for Java](http://www.ics.uci.edu/~lstancu/p81-stancu.pdf)_. In _Proceedings of the International Symposium on Memory Management_, pages 81–92. ACM Press, 2015. [doi:10.1145/2754169.2754185](http://dx.doi.org/10.1145/2754169.2754185)
