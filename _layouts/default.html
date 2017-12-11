@@ -30,19 +30,19 @@
           <ul style="list-style-type: none;" class="fa-ul">
             
              {% if site.email %}
-             <li><i class="fa-li fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
+             <li style="list-style:none;"><i class="fa-li fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
              {% endif %}
 
              {% if site.linkedin %}
-             <li><i class="fa-li fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
+             <li style="list-style:none;><i class="fa-li fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
              {% endif %}
 
              {% if site.github %}
-             <li><i class="fa-li fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
+             <li style="list-style:none;><i class="fa-li fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
              {% endif %}
 
              {% if site.twitter %}
-             <li><i class="fa-li fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
+             <li style="list-style:none;><i class="fa-li fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
              {% endif %}
 
           </ul>
