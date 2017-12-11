@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .contact-list .fa {
-  margin-right: 5px;
+  margin-right: 15px;
   font-size: 18px;
   vertical-align: middle;
 }
