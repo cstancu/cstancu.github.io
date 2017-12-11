@@ -1,5 +1,5 @@
 
-<img align="center" src="https://avatars1.githubusercontent.com/u/1731630?s=400&u=2b246b70006707c944d725bed741b5d82bbb19af&v=4">
+<img align="center" src="https://avatars1.githubusercontent.com/u/1731630?s=400&u=2b246b70006707c944d725bed741b5d82bbb19af&v=4" height="65">
 
 # Codruț Stancu, PhD
 
