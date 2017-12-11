@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.contact-list .fa {
-  margin-right: 15px;
-  font-size: 18px;
-  vertical-align: middle;
+ul.contact-list a {
+  margin-left: 15px;
 }
