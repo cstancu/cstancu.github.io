@@ -2,7 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-ul.contact-list a {
-  margin-left: 15px;
-}
