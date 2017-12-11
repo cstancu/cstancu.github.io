@@ -2,8 +2,6 @@
 
 ## Researcher, _[Oracle Labs](http://labs.oracle.com/)_
 
-<img align="right" src="https://avatars1.githubusercontent.com/u/1731630?s=400&u=2b246b70006707c944d725bed741b5d82bbb19af&v=4" height="120" hspace="10">
-
 ### Bio
 
 I am a Researcher at [Oracle Labs](http://labs.oracle.com), working on program analysis and optimization techniques.
