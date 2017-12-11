@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 .contact-list .fa {
   margin-right: 5px;
   font-size: 18px;
