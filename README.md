@@ -11,12 +11,14 @@ My research interests are in the area of Programming Languages Design and Implem
 
 ### Peer Reviewed Publications
 
-- Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Safe and Efficient Hybrid Memory Management for Java](p81-stancu.pdf)_. In _Proceedings of the International Symposium on Memory Management_, pages 81–92. ACM Press, 2015. [doi:10.1145/2754169.2754185](http://dx.doi.org/10.1145/2754169.2754185)
+- Christian Wimmer, Codrut Stancu, Peter Hofer, Vojin Jovanovic, Paul Wögerer, Peter B. Kessler, Oleg Pliss, and Thomas Würthinger: _[Initialize once, start fast: application initialization at build time.](3360610.pdf)_. In _Proceedings of the ACM on Programming Languages_ (OOPSLA), Article 184, ACM Press, 2019. [doi:10.1145/3360610](https://doi.org/10.1145/3360610)
+
+- Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Safe and Efficient Hybrid Memory Management for Java](p81-stancu.pdf)_. In _Proceedings of the International Symposium on Memory Management_ (ISMM), pages 81–92. ACM Press, 2015. [doi:10.1145/2754169.2754185](http://dx.doi.org/10.1145/2754169.2754185)
   - Presentation by Christian Wimmer: [JVMLS 2015 - Hybrid Memory Management](https://www.youtube.com/watch?v=3JphI1Z0MTk)
 
-- Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Comparing Points-to Static Analysis with Runtime Recorded Profiling Data](p157-stancu.pdf)_. In _Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools_, pages 157–168. ACM Press, 2014. [doi:10.1145/2647508.2647524](http://dx.doi.org/10.1145/2647508.2647524)
+- Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Comparing Points-to Static Analysis with Runtime Recorded Profiling Data](p157-stancu.pdf)_. In _Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools_ (PPPJ), pages 157–168. ACM Press, 2014. [doi:10.1145/2647508.2647524](http://dx.doi.org/10.1145/2647508.2647524)
 
-- Codrut Stancu, Luis Bathen, Nikil Dutt, Alex Nicolau: _[AVid: Annotation Driven Video Decoding for Hybrid Memories](06507022.pdf)_. In _Proceedings of the 10th Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia)_, pages 2–11. IEEE, 2012. [doi:10.1109/ESTIMedia.2012.6507022](http://dx.doi.org/10.1109/ESTIMedia.2012.6507022)
+- Codrut Stancu, Luis Bathen, Nikil Dutt, Alex Nicolau: _[AVid: Annotation Driven Video Decoding for Hybrid Memories](06507022.pdf)_. In _Proceedings of the 10th Symposium on Embedded Systems for Real-time Multimedia_ (ESTIMedia), pages 2–11. IEEE, 2012. [doi:10.1109/ESTIMedia.2012.6507022](http://dx.doi.org/10.1109/ESTIMedia.2012.6507022)
 
 ### Workshops
 
