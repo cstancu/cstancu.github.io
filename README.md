@@ -1,6 +1,6 @@
 # Codruț Stancu, PhD
 
-## Researcher, _[Oracle Labs](http://labs.oracle.com/)_
+## Principal Researcher, _[Oracle Labs](http://labs.oracle.com/)_
 
 ### Bio
 
