@@ -11,6 +11,8 @@ My research interests are in the area of Programming Languages Design and Implem
 
 ### Peer Reviewed Publications
 
+- Christian Wimmer, Codrut Stancu, David Kozak, and Thomas Würthinger: [_Scaling Type-Based Points-to Analysis with Saturation_](pldi24main-p251-p-89d83f7443-75213-final.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Programming Languages Design and Implementation (PLDI)_. ACM Press, 2024.
+
 - David Kozak, Vojin Jovanovic, Codrut Stancu, Tomáš Vojnar, and Christian Wimmer: [_Comparing Rapid Type Analysis with Points-To Analysis in GraalVM Native Image_](3617651.3622980.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR)_, pages 129–142. ACM Press, 2023. [doi:10.1145/3617651.3622980](https://doi.org/10.1145/3617651.3622980)
 
 - Christian Wimmer, Codrut Stancu, Peter Hofer, Vojin Jovanovic, Paul Wögerer, Peter B. Kessler, Oleg Pliss, and Thomas Würthinger: _[Initialize once, start fast: application initialization at build time.](3360610.pdf)_. In _Proceedings of the ACM on Programming Languages_ (OOPSLA), Article 184, ACM Press, 2019. [doi:10.1145/3360610](https://doi.org/10.1145/3360610)
