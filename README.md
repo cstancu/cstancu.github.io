@@ -12,13 +12,16 @@ My research interests are in the area of Programming Languages Design and Implem
 ### Peer Reviewed Publications
 
 - Christian Wimmer, Codrut Stancu, David Kozak, and Thomas Würthinger: [_Scaling Type-Based Points-to Analysis with Saturation_](pldi24main-p251-p-89d83f7443-75213-final.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Programming Languages Design and Implementation (PLDI)_. ACM Press, 2024.
+  - [Presentation by Codrut Stancu at PLDI 2024](https://www.youtube.com/watch?v=cJ7ldLgQJ0E)
 
 - David Kozak, Vojin Jovanovic, Codrut Stancu, Tomáš Vojnar, and Christian Wimmer: [_Comparing Rapid Type Analysis with Points-To Analysis in GraalVM Native Image_](3617651.3622980.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR)_, pages 129–142. ACM Press, 2023. [doi:10.1145/3617651.3622980](https://doi.org/10.1145/3617651.3622980)
+  - [Presentation by David Kozak at MPLR 2023](https://www.youtube.com/watch?v=yJierMrYF3s)
 
 - Christian Wimmer, Codrut Stancu, Peter Hofer, Vojin Jovanovic, Paul Wögerer, Peter B. Kessler, Oleg Pliss, and Thomas Würthinger: _[Initialize once, start fast: application initialization at build time.](3360610.pdf)_. In _Proceedings of the ACM on Programming Languages_ (OOPSLA), Article 184, ACM Press, 2019. [doi:10.1145/3360610](https://doi.org/10.1145/3360610)
+  - [Presentation by Christian Wimmer at OOPSLA 2019](https://www.youtube.com/watch?v=L6cGWDd3ZJc)
 
 - Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Safe and Efficient Hybrid Memory Management for Java](p81-stancu.pdf)_. In _Proceedings of the International Symposium on Memory Management_ (ISMM), pages 81–92. ACM Press, 2015. [doi:10.1145/2754169.2754185](http://dx.doi.org/10.1145/2754169.2754185)
-  - Presentation by Christian Wimmer: [JVMLS 2015 - Hybrid Memory Management](https://www.youtube.com/watch?v=3JphI1Z0MTk)
+  - [Presentation by Christian Wimmer at JVMLS 2015](https://www.youtube.com/watch?v=3JphI1Z0MTk)
 
 - Codrut Stancu, Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: _[Comparing Points-to Static Analysis with Runtime Recorded Profiling Data](p157-stancu.pdf)_. In _Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools_ (PPPJ), pages 157–168. ACM Press, 2014. [doi:10.1145/2647508.2647524](http://dx.doi.org/10.1145/2647508.2647524)
 
