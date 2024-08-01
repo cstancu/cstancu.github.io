@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+ul li {
+    margin-left: 10px;
+    padding-left: 10px;
+}
+ol li {
+    margin-left: 10px;
+}
