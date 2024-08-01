@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.inner {
+    width: 940px;
+    margin: 0 auto;
+}
+
 ul li {
     margin-left: 10px;
     padding-left: 10px;
