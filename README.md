@@ -7,9 +7,11 @@
 I am a Researcher at [Oracle Labs](http://labs.oracle.com), working on program analysis and optimization techniques.
 I received my PhD from the [University of California, Irvine](http://uci.edu), working under the guidance of [Prof. Michael Franz](http://www.michaelfranz.com) in his [Secure Systems and Software Laboratory](http://www.ssllab.org).
 
-My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I currently work on [GraalVM/SubstrateVM](https://github.com/oracle/graal).
+My research interests are in the area of Programming Languages Design and Implementation with a focus on Program Analysis. I am currently a core contributor of [GraalVM](https://github.com/oracle/graal).
 
 ### Peer Reviewed Publications
+
+- Christoph Blumschein, Fabio Niephaus, Codrut Stancu, Christian Wimmer, Jens Lincke, and Robert Hirschfeld: [_Finding Cuts in Static Analysis Graphs to Debloat Software_](issta24main-p124-p-85f6731c5b-78970-submitted.pdf). In _Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_. ACM Press, 2024.
 
 - Christian Wimmer, Codrut Stancu, David Kozak, and Thomas Würthinger: [_Scaling Type-Based Points-to Analysis with Saturation_](pldi24main-p251-p-89d83f7443-75213-final.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Programming Languages Design and Implementation (PLDI)_. ACM Press, 2024.
   - [Presentation by Codrut Stancu at PLDI 2024](https://www.youtube.com/watch?v=cJ7ldLgQJ0E)
