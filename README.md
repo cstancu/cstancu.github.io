@@ -11,9 +11,9 @@ My research interests are in the area of Programming Languages Design and Implem
 
 ### Peer Reviewed Publications
 
-- Christoph Blumschein, Fabio Niephaus, Codrut Stancu, Christian Wimmer, Jens Lincke, and Robert Hirschfeld: [_Finding Cuts in Static Analysis Graphs to Debloat Software_](papers/issta24main-p124-p-85f6731c5b-78970-submitted.pdf). In _Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_. ACM Press, 2024.[doi:10.1145/3650212.3680306](https://dl.acm.org/doi/10.1145/3650212.3680306)
+- Christoph Blumschein, Fabio Niephaus, Codrut Stancu, Christian Wimmer, Jens Lincke, and Robert Hirschfeld: [_Finding Cuts in Static Analysis Graphs to Debloat Software_](papers/issta24main-p124-p-85f6731c5b-78970-submitted.pdf). In _Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_. ACM Press, 2024. [doi:10.1145/3650212.3680306](https://dl.acm.org/doi/10.1145/3650212.3680306)
 
-- Christian Wimmer, Codrut Stancu, David Kozak, and Thomas Würthinger: [_Scaling Type-Based Points-to Analysis with Saturation_](papers/pldi24main-p251-p-89d83f7443-75213-final.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Programming Languages Design and Implementation (PLDI)_. ACM Press, 2024.[doi:10.1145/3656417](https://dl.acm.org/doi/10.1145/3656417)
+- Christian Wimmer, Codrut Stancu, David Kozak, and Thomas Würthinger: [_Scaling Type-Based Points-to Analysis with Saturation_](papers/pldi24main-p251-p-89d83f7443-75213-final.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Programming Languages Design and Implementation (PLDI)_. ACM Press, 2024. [doi:10.1145/3656417](https://dl.acm.org/doi/10.1145/3656417)
   - [Presentation by Codrut Stancu at PLDI 2024](https://www.youtube.com/watch?v=cJ7ldLgQJ0E)
 
 - David Kozak, Vojin Jovanovic, Codrut Stancu, Tomáš Vojnar, and Christian Wimmer: [_Comparing Rapid Type Analysis with Points-To Analysis in GraalVM Native Image_](papers/3617651.3622980.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR)_, pages 129–142. ACM Press, 2023. [doi:10.1145/3617651.3622980](https://doi.org/10.1145/3617651.3622980)
