@@ -11,6 +11,8 @@ My research interests are in the area of Programming Languages Design and Implem
 
 ### Peer Reviewed Publications
 
+- David Kozak, Codrut Stancu, Tomáš Vojnar, Christian Wimmer: [_SkipFlow: Improving the Precision of Points-to Analysis using Primitive Values and Predicate Edges_](https://dl.acm.org/doi/pdf/10.1145/3696443.3708932). In _Proceedings of the ACM/IEEE International Symposium on Code Generation and Optimization (CGO)_. ACM Press, 2025. [doi:10.1145/3696443.3708932](https://doi.org/10.1145/3696443.3708932)
+
 - Christoph Blumschein, Fabio Niephaus, Codrut Stancu, Christian Wimmer, Jens Lincke, and Robert Hirschfeld: [_Finding Cuts in Static Analysis Graphs to Debloat Software_](papers/issta24main-p124-p-85f6731c5b-78970-submitted.pdf). In _Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_. ACM Press, 2024. [doi:10.1145/3650212.3680306](https://dl.acm.org/doi/10.1145/3650212.3680306)
 
 - Christian Wimmer, Codrut Stancu, David Kozak, and Thomas Würthinger: [_Scaling Type-Based Points-to Analysis with Saturation_](papers/pldi24main-p251-p-89d83f7443-75213-final.pdf). In _Proceedings of the ACM SIGPLAN International Conference on Programming Languages Design and Implementation (PLDI)_. ACM Press, 2024. [doi:10.1145/3656417](https://dl.acm.org/doi/10.1145/3656417)
